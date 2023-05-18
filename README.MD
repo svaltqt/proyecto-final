@@ -3,9 +3,8 @@ Primero hay que instalar un entorno virtual para python
 
 ## Instalación del repositorio 
 Primero debes descargar el repo con git clone
-
     ```
-         git clone 
+         docker-compose up 
     ```
 
 ## Instalación postgres con DOCKER 
