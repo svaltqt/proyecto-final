@@ -1,6 +1,15 @@
 # Sistema híbrido MongoDB y PostgreSQL
-Primero hay que instalar un entorno virtual para python
-1. Primero debemos crear el entorno con [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
+1. Instalaciín de un entorno virtual para python
+2. Instalacion del repositorio Github
+3. Instalacion de dependencias
+
+# Recomendaciones
+[FastAPI](https://fastapi.tiangolo.com/es/#instalacion) Documentación e instalacion de FastAPI
+
+# Entorno virtual con Conda
+Para instalar el entorno virtual primero debemos ubicarnos en la carpeta donde descargaremos el repositorio y luego seguir los pasos:
+1. Primero debemos crear el entorno virtual con [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
+
 En este caso el nombre del entorno será "proyecto-final"
 ```
     conda create --name proyecto-final python=3
