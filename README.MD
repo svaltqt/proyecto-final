@@ -4,7 +4,7 @@ Primero hay que instalar un entorno virtual para python
 ## Instalación del repositorio 
 Primero debes descargar el repo con git clone
     ```
-         docker-compose up 
+         git clone https://github.com/svaltqt/proyecto-final.git
     ```
 
 ## Instalación postgres con DOCKER 
