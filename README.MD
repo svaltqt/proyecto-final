@@ -3,6 +3,7 @@ Primero hay que instalar un entorno virtual para python
 
 ## Instalación del repositorio 
 Primero debes descargar el repo con git clone
+    
     ```
          git clone https://github.com/svaltqt/proyecto-final.git
     ```
