@@ -2,11 +2,10 @@
 Primero hay que instalar un entorno virtual para python
 
 ## Instalación del repositorio 
-Primero debes descargar el repo con git clone
-    
-    ```
+1. Git clone:
+         ```
          git clone https://github.com/svaltqt/proyecto-final.git
-    ```
+         ```
 
 ## Instalación postgres con DOCKER 
 Para que funcione el postgres en un contenedor debes instalar Docker de la siguiente manera
