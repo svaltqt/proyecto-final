@@ -93,3 +93,8 @@ Rendimiento y escalabilidad: MongoDB ofrece una arquitectura distribuida que per
 Costo: Es importante evaluar los costos asociados con la implementación y el mantenimiento de la base de datos. MongoDB ofrece opciones de licencia gratuita y comercial, lo que permite adaptarse a las necesidades y presupuesto del proyecto.
 
 A todo esto hay que sumarle que el manejo de datos en la nube da mas disponibilidad en la red y velocidad ya que hay servidores en todas parte del mundo.
+
+
+
+Atentamente: Juan Camilo
+Estudiante ingenieria informática. 
