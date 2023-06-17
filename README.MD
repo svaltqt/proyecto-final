@@ -1,9 +1,9 @@
 # Sistema híbrido MongoDB y PostgreSQL
-1. Instalaciín de un entorno virtual para python
-2. Instalacion del repositorio Github
-3. Instalacion de dependencias
+1. Instalación de un entorno virtual para python
+2. Instalación del repositorio Github
+3. Instalación de dependencias
 
-# Recomendaciones
+## Recomendaciones
 [FastAPI](https://fastapi.tiangolo.com/es/#instalacion) Documentación e instalacion de FastAPI
 
 # Entorno virtual con Conda
@@ -22,7 +22,7 @@ En este caso el nombre del entorno será "proyecto-final"
 ```
     conda activate proyecto-final
 ```
-4. Recuerda que todas estas intrucciones son en la carpeta donde estará el github, ya que el repo no viene con el entorno, pero vendrá con un ```requirements.txt``` que luego usaremos cuando ya tengamos el git clone hecho.
+4. Recuerda que todas estas intrucciones son en la carpeta donde estará el github, ya que el repo no viene con el entorno, pero vendrá con un ```requirements.txt``` que luego usaremos cuando ya tengamos instalado el entorno y descargado el git clone.
 ## Instalación del repositorio 
 1. Git clone:
     ```
