@@ -83,6 +83,7 @@ Tambien existen otras bases de datos NoSQL como:
 1. Cassandra
 2. CouchDB
 
+Es importante destacar que existen otras bases de datos NoSQL, como Cassandra y CouchDB, que también podrían haber sido consideradas. Sin embargo, en este caso, MongoDB fue la elección más adecuada debido a su adecuación a los requisitos del proyecto, su amplia adopción en aplicaciones web y su sólido soporte en la comunidad
 
 ### Consideraciones adicionales
 La creacion de la DB en MongoAtlas es muy intuitiva y sencilla de ahcer y tiene muchas integraciones a diferentes lenguajes de programación.
