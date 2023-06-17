@@ -5,7 +5,11 @@ class Evento(BaseModel):
     id: str | None
     titulo: str    
     descripcion: str
-    categoria: str
-    lugar: str | None
-    asistentes: str
-    comentarios: str
+    nombre: str 
+    apellido: str 
+    TipoEmpleado: str
+    facultad: str 
+    lugar: str
+    ciudad: str    
+    email: str
+    comentarios: str | None
