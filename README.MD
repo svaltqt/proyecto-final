@@ -40,3 +40,19 @@ Para que funcione el postgres en un contenedor debes instalar Docker de la sigui
     ```
          docker-compose up 
     ```
+
+# Informe técnico
+### Eleccion de una Base de datos que sea compatible con las necesidades del proyecto.
+
+1. Este proyecto necesitaba una Base de datos rápida, escalable, flexible y con bajos costos.
+2. Se requería de un sistema híbrido entre una Base de datos Relacional y una No Relacional.
+3. Era necesario realizar consultas en la DB relacional para completar la información de la NoSQL
+
+### Análisis
+
+Se evaluaron diferentes tecnologías y soluciones NoSQL y se llegó a la conclusion de utilizar MongoDB
+como la solucion de base de datos NoSQL para el proyecto.
+
+
+
+
