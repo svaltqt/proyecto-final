@@ -228,12 +228,3 @@ INSERT INTO empleados (_id, nombres, apellidos, email, tipo_contratacion, tipo_e
 VALUES (9, 'Fernando', 'Lopez', 'fernando@example.com', 1, 1, 1, 3, 'Cali');
 INSERT INTO empleados (_id, nombres, apellidos, email, tipo_contratacion, tipo_empleado, id_facultades, id_sedes, nacimiento_lugar)
 VALUES (10, 'Daniela', 'Hernandez', 'daniela@example.com', 1, 2, 2, 4, 'Medellin');
-
-
-
-
-
-
-
-
-
