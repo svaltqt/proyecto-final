@@ -40,6 +40,19 @@ Para que funcione el postgres en un contenedor debes instalar Docker de la sigui
     ```
          docker-compose up 
     ```
+## Pre-Requisitos
+
+1. FastAPI Guia básica
+2. Python 
+3. Mongodb (Local o MongoDB Atlas Cloud)
+
+
+## Instalacion de dependencias
+
+1. fastAPI
+2. uvicorn
+3. pymongo
+
 
 # Informe técnico
 ### Elección de una Base de datos que sea compatible con las necesidades del proyecto.
