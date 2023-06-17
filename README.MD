@@ -66,6 +66,9 @@ Al ser un sistema híbrido presentó muchos retos pero se pudo lograr el objetiv
 
 ya que fue creado en el ecosistema de Python, se uso un Framework llamado FastAPI para gestionar el RESTAPIClient donde se almacenan los datos y crean la conexiones.
 
+Para la creacion de la base de datos SQL se utilizo PostgreSQL gestionado en [Docker](https://www.docker.com), se creó el servidor y la conexion a travez de Python.
+Las conexiones se realizaron con el framework de Pydantic.
+
 
 ### Referencias
 [FastAPI](https://fastapi.tiangolo.com/es/tutorial/).
